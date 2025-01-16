@@ -7,6 +7,7 @@ understanding of industry dynamics, InsightHire empowers businesses to seamlessl
 top-tier talent.With a mission to revolutionize traditional recruitment practices, the agency leverages data-
 driven insights to deliver unmatched value to clients, ensuring efficiency and effectiveness in every hire.
 
+
 -- Problem Statement --
 The job market of today is qxtreemly fast-pace, as such, recruitment agencies face significant challenges in sourcing
 accurate, up-to-date, and comprehensive job listings. InsightHire Agency aims to enhance its
@@ -19,11 +20,13 @@ sectors, but manually tracking and compiling these listings is not feasible at s
 and ensure clients have access to the most current opportunities, the agency needs to automate the
 process of extracting job listings from the website.
 
+
 -- Proposed Solution --
 By scraping data from MyJobMag, InsightHire Agency can streamline its data collection, access a
 broader range of job listings, and provide clients with accurate, up-to-date information. This will allow
 the agency to better match candidates with relevant job opportunities and help businesses make more
 informed hiring decisions, ultimately enhancing the efficiency and success of the recruitment process.
+
 
 -- Objectives --
 ● Develop a web scraping solution to extract job listing details from "My Job Mag."
@@ -32,6 +35,7 @@ informed hiring decisions, ultimately enhancing the efficiency and success of th
 ● Load the structured data into a PostgreSQL database for analysis and querying.
 
 ● Ensure the process adheres to ethical guidelines and legal constraints.
+
 
 -- Tasks --
 ● Data Extraction: Scrape job listing details from the "My Job Mag" website using
