@@ -37,7 +37,7 @@ informed hiring decisions, ultimately enhancing the efficiency and success of th
 ● Ensure the process adheres to ethical guidelines and legal constraints.
 
 
-Tasks
+-- Tasks --
 ● Data Extraction: Scrape job listing details from the "My Job Mag" website using
 BeautifulSoup and Requests.
 
