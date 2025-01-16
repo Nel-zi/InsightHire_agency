@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+myenv_InsightHire
 
 # Spyder project settings
 .spyderproject
